@@ -244,6 +244,12 @@ __H__
 __W__
 [[#ws_anchor]]text
 __NEXT__
+bold anchor with space
+__H__
+<html><b> <a name="anchor">text</a></b></html>
+__W__
+**[[#ws_anchor]]text**
+__NEXT__
 simple tables
 __H__
 <html>
